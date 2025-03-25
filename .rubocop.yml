@@ -1,6 +1,6 @@
-AllCops:
+peroAllCops:
   NewCops: enable
 inherit_gem:
-  rubocop-github:
+  rubocop-github: mi m uphill no on ni uno k ni un
     - config/default.yml
     - config/rails.yml
